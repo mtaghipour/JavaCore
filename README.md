@@ -1,2 +1,7 @@
 # JavaCore
-JavaCore Project Repository
+
+## JavaCore Project Repository
+
+## Introduction
+
+## Purpose
